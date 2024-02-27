@@ -1,2 +1,2 @@
-# Config-Cs2
-Config Cs2
+Config do CS 2
+Jak chcesz to pobieraj
